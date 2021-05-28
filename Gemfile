@@ -7,7 +7,6 @@ end
 
 ruby "2.7.2"
 
-gem "api-auth", "~> 2.4"
 gem 'azure-storage', '~> 0.15.0.preview', require: false
 gem 'azure-storage-blob'
 gem 'bootstrap', '~> 4.6.0'
@@ -51,7 +50,7 @@ gem "strong_migrations", "~> 0.7.6"
 gem "sprockets", "~> 4.0.2"
 gem "toastr-rails"
 gem "uglifier", ">= 1.3.0"
-gem 'webpacker'
+gem 'webpacker', '~> 5.4'
 gem "yajl-ruby"
 gem "recaptcha"
 
