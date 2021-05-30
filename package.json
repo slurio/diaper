@@ -20,9 +20,9 @@
     "mem": "^5.1.1",
     "mixin-deep": "^2.0.1",
     "set-value": "^3.0.1",
-    "webpack": "^4.46.0",
     "tailwindcss": "^2.1.2",
-    "webpack-cli": "^3.3.12"
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.5",
